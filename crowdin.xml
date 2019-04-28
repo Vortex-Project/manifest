@@ -18,12 +18,12 @@
   <project path="WeatherClient" name="WeatherClient" remote="pixel" revision="master" />
 
   <!-- Framework repos -->
-  <project path="frameworks/base" name="frameworks_base" remote="pixel" />
+  <project path="frameworks/base" name="frameworks_base" remote="vortex" />
 
   <!-- Packages repos -->
   <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="pixel" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="pixel" />
-  <project path="packages/apps/Updates" name="packages_apps_Updates" remote="pixel" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="vortex" />
+  <project path="packages/apps/Updates" name="packages_apps_Updates" remote="vortex" />
   <project path="packages/providers/AmbientPlayHistoryProvider" name="packages_providers_AmbientPlayHistoryProvider" remote="pixel" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="pixel" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="pixel" />
