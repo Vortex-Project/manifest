@@ -8,10 +8,13 @@
 
   <remote name="vortex-devices"
           fetch="https://github.com/vortex-devices"
-          revision="pie" />		  
+          revision="pie" />	
 		  
-  <remote name="vortex-gitlab"
-          fetch="https://gitlab.com/vortex-os"
+  <remote name="gitlab"
+          fetch="https://gitlab.com" />
+		  
+  <remote name="pixel-gitlab"
+          fetch="https://gitlab.com/PixelExperience"
           revision="pie" />
 		  
   <remote name="vortex"
@@ -26,7 +29,7 @@
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="pixel" />
 
   <!-- External repos -->
-  <project path="external/e2fsprogs" name="external_e2fsprogs" remote="vortex" />
+  <project path="external/e2fsprogs" name="external_e2fsprogs" remote="pixel" />
   <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
 
   <!-- Framework repos -->
@@ -56,8 +59,8 @@
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="vortex" />
   <project path="manifest" name="manifest" remote="vortex" />
   <project path="vendor/aosp" name="vendor_aosp" remote="vortex" />
-  <project path="vendor/gapps" name="vendor_gapps" remote="vortex-gitlab" clone-depth="1" />
-  <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="vortex-gitlab" />
+  <project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
+  <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="pixel-gitlab" />
   <project path="vendor/themes" name="vendor_themes" remote="vortex" />
 
   <!-- Hardware repos -->
@@ -82,6 +85,7 @@
   <project path="packages/providers/AmbientPlayHistoryProvider" name="packages_providers_AmbientPlayHistoryProvider" remote="pixel" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="pixel" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="pixel" />
+  <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="vortex" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="vortex" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="pixel" />
 
@@ -89,8 +93,8 @@
   <project path="prebuilts/clang/host/linux-x86" name="prebuilts_clang_host_linux-x86" remote="pixel" clone-depth="1" />
 
   <!-- System Repos -->
-  <project path="system/core" name="system_core" remote="vortex" />
-  <project path="system/extras" name="system_extras" remote="vortex" />
+  <project path="system/core" name="system_core" remote="pixel" />
+  <project path="system/extras" name="system_extras" remote="pixel" />
   <project path="system/netd" name="system_netd" remote="vortex" />
   <project path="system/sepolicy" name="system_sepolicy" remote="vortex" />
   <project path="system/vold" name="system_vold" remote="pixel" />
