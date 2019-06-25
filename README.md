@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/vortex-project/manifest/pie/snippets/vortex_logo_manifest.png" alt="" /></div>
+<div align="center"><img src="https://raw.githubusercontent.com/vortex-project/manifest/pie/snippets/new_vortex_logo.png" alt="" /></div>
 
 # Vortex Project #
 
@@ -36,6 +36,12 @@ Credits
 
 - PixelExperience
 - Evolution X
+- Havoc OS
+- Bootleggers ROM
+- ABC ROM
+- AOSiP
+- OMNI ROM
+- Nitrogen OS
 - nysadev
 - kjjjnob
 - Luis Chaves
