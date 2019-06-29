@@ -18,7 +18,7 @@
           revision="pie" />
 		  
   <remote name="vortex"
-          fetch="https://github.com/vortex-project"
+          fetch="https://gitlab.com/proyecto-vortex"
           revision="pie" />		 
 
   <!-- CodeAurora additions -->
