@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/vortex-project/manifest/pie/snippets/new_vortex_logo.png" alt="" /></div>
+<div align="center"><img src="https://gitlab.com/proyecto-vortex/manifest/raw/pie/snippets/new_vortex_logo.png" alt="" /></div>
 
 # Vortex Project #
 
@@ -14,7 +14,7 @@ At the moment this work is only thought to work with the specific model that you
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/vortex-project/manifest -b pie
+repo init -u https://gitlab.com/proyecto-vortex/manifest -b pie
 
 # Sync
 repo sync  --force-sync --current-branch --no-tags --no-clone-bundle --optimized-fetch --prune -j$(nproc --all)
