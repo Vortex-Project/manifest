@@ -57,7 +57,7 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
   <project path="bootable/recovery" name="bootable_recovery" remote="pixel" />
-  <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel" />
+  <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="vortex" />
   <project path="manifest" name="manifest" remote="vortex" />
   <project path="vendor/aosp" name="vendor_aosp" remote="vortex" />
   <project path="vendor/gapps" name="vendor_gapps" remote="pixel-gitlab" clone-depth="1" />
@@ -65,7 +65,7 @@
   <project path="vendor/themes" name="vendor_themes" remote="vortex" />
 
   <!-- Hardware repos -->
-  <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="pixel" />
+  <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="vortex" />
   <project path="hardware/custom/keydisabler" name="hardware_custom_keydisabler" remote="pixel" />
   <project path="hardware/interfaces" name="hardware_interfaces" remote="pixel" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="pixel" />
