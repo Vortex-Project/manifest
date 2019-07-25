@@ -87,6 +87,7 @@
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="pixel" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="pixel" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="vortex" />
+  <project path="packages/providers/WeatherProvider" name="packages_providers_WeatherProvider" remote="vortex" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="vortex" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="pixel" />
 
