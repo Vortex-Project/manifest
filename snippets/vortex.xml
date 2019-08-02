@@ -88,6 +88,7 @@
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="vortex" />  
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="vortex" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="vortex" />
+  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="vortex" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="vortex" />
   <project path="packages/apps/VortexSettings" name="packages_apps_VortexSettings" remote="vortex" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="vortex" />
