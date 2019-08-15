@@ -38,7 +38,6 @@
   <project path="frameworks/av" name="frameworks_av" remote="vortex" />
   <project path="frameworks/base" name="frameworks_base" remote="vortex" />
   <project path="frameworks/native" name="frameworks_native" remote="vortex" />
-  <project path="frameworks/opt/net/voip" name="frameworks_opt_net_voip" remote="vortex" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="vortex" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="vortex" />
   <project path="frameworks/Vortex" name="frameworks_Vortex" remote="vortex" />
