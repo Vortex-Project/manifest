@@ -75,7 +75,6 @@
   <project path="hardware/nxp/nfc" name="hardware_nxp_nfc" remote="vortex" />
 
   <!-- Packages repos -->
-  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="vortex" />  
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="vortex" />
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="vortex" />
   <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="vortex" />
@@ -88,6 +87,9 @@
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="vortex" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="vortex" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="vortex" />
+  <project path="packages/apps/Longshot" name="packages_apps_Longshot" remote="vortex" />
+  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="vortex" />
+  <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="vortex" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="vortex" />
   <project path="packages/apps/VortexSettings" name="packages_apps_VortexSettings" remote="vortex" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="vortex" />
