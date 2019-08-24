@@ -97,7 +97,6 @@
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="vortex" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="vortex" />
   <project path="packages/services/BuiltInPrintService" name="packages_services_BuiltInPrintService" remote="pixel" />  
-  <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="vortex" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="vortex" />
   <project path="packages/providers/WeatherProvider" name="packages_providers_WeatherProvider" remote="vortex" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="vortex" />
