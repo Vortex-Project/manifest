@@ -84,10 +84,11 @@
   <project path="packages/apps/EmergencyInfo" name="packages_apps_EmergencyInfo" remote="vortex" />
   <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="vortex" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" remote="vortex" />  
+  <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="vortex" />
+  <project path="packages/apps/Longshot" name="packages_apps_Longshot" remote="vortex" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="vortex" />
   <project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="vortex" />
   <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="vortex" />
-  <project path="packages/apps/Longshot" name="packages_apps_Longshot" remote="vortex" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="vortex" />
   <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="vortex" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="vortex" />
